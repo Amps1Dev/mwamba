@@ -1,5 +1,7 @@
 import React from 'react'
 
+
+/*#didn't know what to type so....*/
 const pages = () => {
   return (
     <>
